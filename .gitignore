@@ -12,3 +12,6 @@ crash.*.log
 # Variable files containing sensitive values
 *.tfvars
 *.tfvars.json
+
+*.terraform.lock.hcl
+.terraform.lock.hcl
